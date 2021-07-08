@@ -1,0 +1,19 @@
+
+.book-simplified-div {
+    white-space: nowrap;
+    width: 25vw;
+    text-align: center;
+    background-color: rgb(230, 230, 230);
+    box-shadow: 5px 5px 5px rgb(196, 196, 196);
+}
+
+.book-simplified-div .title {
+    font-size: xx-large;
+}
+
+
+.book-simplified-div .author {
+    margin-top: -10%;
+    color: rgb(107, 107, 107);
+    font-size: large;
+}
